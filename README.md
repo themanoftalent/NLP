@@ -59,9 +59,6 @@ For those looking to delve deeper into NLP, we have resources on advanced topics
 ## Contributing
 We welcome contributions to this repository. If you have additional scripts, examples, or improvements to share, please open a pull request. You can also report issues or suggest new features.
 
-## License
-This repository is licensed under the MIT License. Feel free to use, modify, and distribute the code for your NLP projects. Please refer to the [LICENSE](LICENSE) file for more details.
-
 Happy NLP coding!
 
 
